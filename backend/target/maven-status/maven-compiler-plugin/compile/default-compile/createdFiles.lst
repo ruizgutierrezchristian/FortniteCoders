@@ -1,0 +1,12 @@
+com\gamevault\config\DataLoader.class
+com\gamevault\repository\DesarrolladoraRepository.class
+com\gamevault\controller\DesarrolladoraController.class
+com\gamevault\config\CorsConfig.class
+com\gamevault\controller\VideojuegoController.class
+com\gamevault\model\Videojuego.class
+com\gamevault\repository\VideojuegoRepository.class
+com\gamevault\GameVaultApplication.class
+com\gamevault\config\CorsConfig$1.class
+com\gamevault\model\Desarrolladora.class
+com\gamevault\service\DesarrolladoraService.class
+com\gamevault\service\VideojuegoService.class

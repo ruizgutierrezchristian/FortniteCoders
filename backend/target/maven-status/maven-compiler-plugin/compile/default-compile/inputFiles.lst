@@ -1,0 +1,11 @@
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\GameVaultApplication.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\repository\DesarrolladoraRepository.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\model\Desarrolladora.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\service\VideojuegoService.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\model\Videojuego.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\controller\DesarrolladoraController.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\service\DesarrolladoraService.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\config\DataLoader.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\config\CorsConfig.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\controller\VideojuegoController.java
+D:\p2\GameVault\GameVault\backend\src\main\java\com\gamevault\repository\VideojuegoRepository.java
